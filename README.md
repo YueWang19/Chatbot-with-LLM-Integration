@@ -1,5 +1,3 @@
-# Chatbot-with-LLM-Integration
-
 # Northeastern University Co-op Advisor Chatbot
 
 This chatbot is designed to provide information about the co-op program at Northeastern University. It uses the `ollama` package to power the interactions with an AI model, offering users responses based on their inquiries about the co-op programs.
