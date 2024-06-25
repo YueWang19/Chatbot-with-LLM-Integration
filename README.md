@@ -2,6 +2,10 @@
 
 This chatbot is designed to provide information about the co-op program at Northeastern University. It uses the `ollama` package to power the interactions with an AI model, offering users responses based on their inquiries about the co-op programs.
 
+## Features
+
+Refer to this Youtube link: https://youtu.be/1PjZN50eReI
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your computer:
